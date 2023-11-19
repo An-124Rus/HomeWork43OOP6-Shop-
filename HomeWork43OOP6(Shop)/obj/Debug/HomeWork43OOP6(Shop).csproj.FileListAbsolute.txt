@@ -1,0 +1,7 @@
+E:\CSlight\HomeWork43OOP6(Shop)\HomeWork43OOP6(Shop)\bin\Debug\HomeWork43OOP6(Shop).exe.config
+E:\CSlight\HomeWork43OOP6(Shop)\HomeWork43OOP6(Shop)\bin\Debug\HomeWork43OOP6(Shop).exe
+E:\CSlight\HomeWork43OOP6(Shop)\HomeWork43OOP6(Shop)\bin\Debug\HomeWork43OOP6(Shop).pdb
+E:\CSlight\HomeWork43OOP6(Shop)\HomeWork43OOP6(Shop)\obj\Debug\HomeWork43OOP6(Shop).csproj.AssemblyReference.cache
+E:\CSlight\HomeWork43OOP6(Shop)\HomeWork43OOP6(Shop)\obj\Debug\HomeWork43OOP6(Shop).csproj.CoreCompileInputs.cache
+E:\CSlight\HomeWork43OOP6(Shop)\HomeWork43OOP6(Shop)\obj\Debug\HomeWork43OOP6(Shop).exe
+E:\CSlight\HomeWork43OOP6(Shop)\HomeWork43OOP6(Shop)\obj\Debug\HomeWork43OOP6(Shop).pdb
